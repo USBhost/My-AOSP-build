@@ -24,18 +24,13 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     BlockedNumberProvider \
     BookmarkProvider \
-    Browser2 \
     BuiltInPrintService \
-    Calendar \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
-    Contacts \
     DeskClock \
     DocumentsUI \
     DownloadProviderUi \
-    Email \
-    ExactCalculator \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
@@ -51,14 +46,12 @@ PRODUCT_PACKAGES += \
     PrintSpooler \
     PrintRecommendationService \
     ProxyHandler \
-    QuickSearchBox \
     Settings \
     SharedStorageBackup \
     StorageManager \
     Telecom \
     TeleService \
     VpnDialogs \
-    vr \
     MmsService
 
 # The set of packages whose code can be loaded by the system server.
